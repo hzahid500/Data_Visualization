@@ -1,2 +1,2 @@
 # Data_Visualization
-![tableaudashboard](https://user-images.githubusercontent.com/121971294/227746789-5ff40ddf-a64e-472e-bd40-195d8638e66f.png)
+<img width="757" alt="salesdashboard" src="https://user-images.githubusercontent.com/121971294/227746841-fa1e35f4-7aab-49ca-884d-d58c8e6a8e76.png">
