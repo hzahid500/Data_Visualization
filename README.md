@@ -4,5 +4,5 @@ Some of the metrics shown here are average discount, net profit, quantity sold, 
 https://public.tableau.com/app/profile/haysam.zahid/viz/supersales_16778728018990/Dashboard
 
 
-<img width="771" alt="salessdashboard" src="https://user-images.githubusercontent.com/121971294/227755196-07735b21-2772-4104-af39-d981b3749126.png">
 
+![superstoredashboard](https://user-images.githubusercontent.com/121971294/230268360-7d7a1c38-a98b-4b33-bab8-6f43e67440c4.png)
